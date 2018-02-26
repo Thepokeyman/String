@@ -1,0 +1,9 @@
+Building String
+
+See doc/readme-qt.rst for instructions on building String-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of String.
+
+See doc/build-*.txt for instructions on building stringd,
+the intended-for-services, no-graphical-interface, reference
+implementation of String.
